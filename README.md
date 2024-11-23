@@ -15,7 +15,9 @@ backend packages :
 
 [npm install express dotenv jsonwebtoken mongoose mongodb cors nodemon ]
 
-[step 5 : npm start it will run in http://localhost:5000]
+[step 5 : npm start
+
+it will run in http://localhost:5000]
 
 and test the API
 
